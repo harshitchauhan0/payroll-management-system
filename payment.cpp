@@ -7,7 +7,7 @@
 #include<time.h>
 #include<iomanip>
 #include<ctype.h>
-#define max 50
+#define max 100
 using namespace std;
    
 int num=0;
